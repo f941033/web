@@ -1,0 +1,42 @@
+body{
+	text-align: center;
+}
+
+img {
+    width: 600px;
+    height: 300px;
+}
+
+input{
+	font-size: 40pt;
+	background-color: rgba(0,0,0,0.1);
+	color: white;
+	border-width: 0px;
+    cursor: pointer;
+}
+
+input:hover{
+	background-color: rgba(0,0,0,0.5);
+}
+
+#boton1{
+	float: left;
+}
+
+#boton2{
+	float: right;
+}
+
+form{
+	position: absolute;
+	top: 133px;
+	left: 383px;
+	width: 600px;
+    height: 175px;
+}
+
+p{
+	clear: both;
+	margin-top: 150px;
+	text-align: center;
+}
